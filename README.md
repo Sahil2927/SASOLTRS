@@ -75,4 +75,6 @@ Researchers interested in replication are encouraged to use publicly available e
 ## Citation
 
 If you use or reference this work, please cite it as:
+Sahil Burnwal, Richa Singh.
+"A Sentiment-Aware, Serendipity-Oriented Long-Tail Recommender System."
 
